@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "c412df6d-5306-a19e-f34f-5a7644c4b3a8",
+  "instructors": {
+    "content": [
+      "1d27739d-8d36-fc03-7fe1-117847d3f93b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "93af9749-e6ed-dd5d-794e-b02fb5c0b73d",
+    "website": "2-141-modeling-and-simulation-of-dynamic-systems-fall-2006"
+  },
+  "course_title": "Modeling and Simulation of Dynamic Systems",
+  "course_description": "This course models multi-domain engineering systems at a level of detail suitable for design and control system implementation. Topics include network representation, state-space models; multi-port energy storage and dissipation, Legendre transforms; nonlinear mechanics, transformation theory, Lagrangian and Hamiltonian forms; and control-relevant properties. Application examples may include electro-mechanical transducers, mechanisms, electronics, fluid and thermal systems, compressible flow, chemical processes, diffusion, and wave transmission.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.141",
+  "course_image_thumbnail": {
+    "content": "936bf914-440d-5bc7-4f12-6d56392c4a44",
+    "website": "2-141-modeling-and-simulation-of-dynamic-systems-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "f3207fee-4aee-43e2-b1ea-67c314d80d52",
+  "site_short_id": "2.141-fall-2006",
+  "title": "Course Metadata"
+}
